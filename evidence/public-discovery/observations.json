@@ -1,0 +1,1197 @@
+{
+  "startedAt": "2026-09-21T09:36:01.429Z",
+  "url": "https://datalife.uz/",
+  "browser": "149.0.7827.55",
+  "observations": [
+    {
+      "capturedAt": "2026-09-21T09:36:14.740Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "finalUrl": "https://datalife.uz/",
+      "httpStatus": 200,
+      "title": "DATA LIFE — IT Education Center & Technology Company",
+      "language": "kaa",
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "DATA\nLIFE"
+        },
+        {
+          "tag": "H2",
+          "text": "Biz haqqımızda"
+        },
+        {
+          "tag": "H3",
+          "text": "Baǵdarlamalıq sheshimler hám IT bilimlendiriw"
+        },
+        {
+          "tag": "H2",
+          "text": "Kurslarımız"
+        },
+        {
+          "tag": "H3",
+          "text": "Frontend Development"
+        },
+        {
+          "tag": "H3",
+          "text": "Backend Development"
+        },
+        {
+          "tag": "H3",
+          "text": "Web Application Security"
+        },
+        {
+          "tag": "H3",
+          "text": "Python"
+        },
+        {
+          "tag": "H3",
+          "text": "Prompt Engineering"
+        },
+        {
+          "tag": "H3",
+          "text": "Grafik dizayn"
+        },
+        {
+          "tag": "H2",
+          "text": "Mentorlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Sipatdinova Nurjamal"
+        },
+        {
+          "tag": "H3",
+          "text": "Pirimbetov Shaxrux"
+        },
+        {
+          "tag": "H3",
+          "text": "Yangiboyev Jamshid"
+        },
+        {
+          "tag": "H3",
+          "text": "Saparniyazov Ernazar"
+        },
+        {
+          "tag": "H3",
+          "text": "Dospanov Abduaziz"
+        },
+        {
+          "tag": "H3",
+          "text": "Bazarbaeva Aytgul"
+        },
+        {
+          "tag": "H2",
+          "text": "Xızmetlerimiz"
+        },
+        {
+          "tag": "H3",
+          "text": "Veb islep shıģarıw"
+        },
+        {
+          "tag": "H3",
+          "text": "Mobil qosımshalar"
+        },
+        {
+          "tag": "H3",
+          "text": "UI/UX dizayn"
+        },
+        {
+          "tag": "H3",
+          "text": "IT konsalting"
+        },
+        {
+          "tag": "H3",
+          "text": "Programmalıq sheshimler"
+        },
+        {
+          "tag": "H2",
+          "text": "Ne ushın DATA LIFE?"
+        },
+        {
+          "tag": "H3",
+          "text": "Tájiriybeli mentorlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Pitkeriwshiler"
+        },
+        {
+          "tag": "H3",
+          "text": "Baģdarlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Usı jıldan berli"
+        },
+        {
+          "tag": "H3",
+          "text": "Jámáát"
+        },
+        {
+          "tag": "H3",
+          "text": "Búgin baslamaqshımısız?"
+        },
+        {
+          "tag": "H2",
+          "text": "Blog & maqalalar"
+        },
+        {
+          "tag": "H3",
+          "text": "2026-jıl jazı: kiberhújimler endi shegaradaģı qurılmalar arqalı kiredi"
+        },
+        {
+          "tag": "H3",
+          "text": "Iyul ayı model tolqını: bir háptede jeti shıģarılıw nedi ańlatadı"
+        },
+        {
+          "tag": "H3",
+          "text": "2026-jılda qaysı proqrammalastırıw tilin úyreniw kerek: sanlar ne deydi"
+        },
+        {
+          "tag": "H2",
+          "text": "Biz benen baylanısıń"
+        },
+        {
+          "tag": "H3",
+          "text": "IT jańalıqlarınan xabardar bolıń"
+        }
+      ],
+      "links": [
+        {
+          "text": "DATA LIFE",
+          "href": "/"
+        },
+        {
+          "text": "Bas bet",
+          "href": "/"
+        },
+        {
+          "text": "Kompaniya",
+          "href": "/about"
+        },
+        {
+          "text": "Kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Mentorlar",
+          "href": "/mentors"
+        },
+        {
+          "text": "Komanda",
+          "href": "/team"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog"
+        },
+        {
+          "text": "Baylanıs",
+          "href": "/contact"
+        },
+        {
+          "text": "Kiriw",
+          "href": "/login"
+        },
+        {
+          "text": "Baslaw",
+          "href": "/register"
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "href": "#courses"
+        },
+        {
+          "text": "Baylanısıw",
+          "href": "#contact"
+        },
+        {
+          "text": "GAME DEV\n\nDots & Boxes (Noqatlar hám keteksheler)",
+          "href": "/games"
+        },
+        {
+          "text": "",
+          "href": "/team/erejepbaev-janpolat"
+        },
+        {
+          "text": "",
+          "href": "/team/pirimbetov-shaxrux"
+        },
+        {
+          "text": "",
+          "href": "/team/yangiboyev-jamshid"
+        },
+        {
+          "text": "",
+          "href": "/team/sipatdinova-nurjamal"
+        },
+        {
+          "text": "",
+          "href": "/team/maxamadiyarov-shaxriyor"
+        },
+        {
+          "text": "",
+          "href": "/team/kayipbaev-ravshan"
+        },
+        {
+          "text": "",
+          "href": "/team/yakubbaev-azamat"
+        },
+        {
+          "text": "",
+          "href": "/team/doshmanov-madiyar"
+        },
+        {
+          "text": "",
+          "href": "/team/saparniyazov-ernazar"
+        },
+        {
+          "text": "",
+          "href": "/team/dospanov-abduaziz"
+        },
+        {
+          "text": "+1",
+          "href": "/team"
+        },
+        {
+          "text": "Jámáát penen tanısıń",
+          "href": "/team"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/frontend-development"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/backend-development"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/web-application-security"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/python"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/prompt-engineering"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/grafik-dizayn"
+        },
+        {
+          "text": "Barlıq kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Sipatdinova Nurjamal\n\nPython mentori",
+          "href": "/team/sipatdinova-nurjamal"
+        },
+        {
+          "text": "Pirimbetov Shaxrux\n\nPython mentori",
+          "href": "/team/pirimbetov-shaxrux"
+        },
+        {
+          "text": "Yangiboyev Jamshid\n\nFrontend hám Backend mentori",
+          "href": "/team/yangiboyev-jamshid"
+        },
+        {
+          "text": "Saparniyazov Ernazar\n\nWeb Application Security mentori",
+          "href": "/team/saparniyazov-ernazar"
+        },
+        {
+          "text": "Dospanov Abduaziz — GitHub",
+          "href": "https://github.com/abduazizdospanov97-ai"
+        },
+        {
+          "text": "Dospanov Abduaziz — Telegram",
+          "href": "https://t.me/abduaziz_dospanov_ai"
+        },
+        {
+          "text": "Dospanov Abduaziz\n\nAI Enginer",
+          "href": "/team/dospanov-abduaziz"
+        },
+        {
+          "text": "Bazarbaeva Aytgul\n\nKompyuter sawatlılıģı mentori",
+          "href": "/team/bazarbaeva-aytgul"
+        },
+        {
+          "text": "Barlıq mentorlardı kóriw",
+          "href": "/mentors"
+        },
+        {
+          "text": "Biypul konsultaciya",
+          "href": "#contact"
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "href": "#courses"
+        },
+        {
+          "text": "Security\n5 kóriw\n7 minut · 2026 M08 5\n2026-jıl jazı: kiberhújimler endi shegaradaģı qurılmalar arqalı kiredi\n\nIyul-avgust aylarındaģı eń iri waqıyalar bir nárseni kórsetti — hújimshiler parol tańlaw menen emes, jamalmaģan VPN qurılmaları hám adamnıń isenimi arqalı kiredi.\n\n#Kiberxavfsizlik\n#Ransomware\n#VPN\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/2026-yil-yozi-kiberhujumlar-endi-chegaradagi-qurilmalar-orqali-kiryapti"
+        },
+        {
+          "text": "AI\n0 kóriw\n6 minut · 2026 M08 5\nIyul ayı model tolqını: bir háptede jeti shıģarılıw nedi ańlatadı\n\nOpenAI, Google, Meta, Anthropic hám xAI bir ay ishinde jańa modeller shıģardı. Eń áhmiyetli ózgeris bolsa modeldiń ózinde emes — proqrammistiniń olar menen qalay islewinde.\n\n#Sun'iy intellekt\n#LLM\n#Agentlar\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/iyul-oyi-model-tolqini-bir-haftada-yettita-chiqarilish-nimani-anglatadi"
+        },
+        {
+          "text": "Career\n3 kóriw\n6 minut · 2026 M08 5\n2026-jılda qaysı proqrammalastırıw tilin úyreniw kerek: sanlar ne deydi\n\nPython reytinglerde birinshi, JavaScript ámelde eń kóp isletiledi, TypeScript bolsa tınıshģana birinshi orınģa shıqtı. Bul úsh san bir-birine qarsı emes — olar úsh túrli sorawģa juwap beredi.\n\n#Python\n#TypeScript\n#Rust\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/2026-yilda-qaysi-dasturlash-tilini-organish-kerak-raqamlar-nima-deydi"
+        },
+        {
+          "text": "Barlıq maqalalar",
+          "href": "/blog"
+        },
+        {
+          "text": "TELEFON\n\n+998 91 383 68 08\n\nDúyshembi–shembi, 09:00–19:00",
+          "href": "tel:+998913836808"
+        },
+        {
+          "text": "TELEGRAM\n\n@datalifecentre\n\nTez juwap",
+          "href": "https://t.me/datalifecentre"
+        },
+        {
+          "text": "EMAIL\n\ninfo@datalife.uz\n\n24 saat ishinde juwap",
+          "href": "mailto:info@datalife.uz"
+        },
+        {
+          "text": "MÁNZIL\n\nAyimxan Shamuratova ko'chasi, Nukus\n\nIT Park, 11-qavat",
+          "href": "https://www.google.com/maps/search/?api=1&query=Ayimxan%20Shamuratova%20ko'chasi%2C%20Nukus%2C%20IT%20Park%2C%2011-qavat"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://instagram.com/data_life_centre"
+        },
+        {
+          "text": "Telegram",
+          "href": "https://t.me/datalifecentre"
+        },
+        {
+          "text": "Barlıq kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Ne ushın biz",
+          "href": "/#why-us"
+        },
+        {
+          "text": "Web Development",
+          "href": "/#services"
+        },
+        {
+          "text": "Mobile Apps",
+          "href": "/#services"
+        },
+        {
+          "text": "UI/UX Design",
+          "href": "/#services"
+        },
+        {
+          "text": "IT Consulting",
+          "href": "/#services"
+        },
+        {
+          "text": "Digital Solutions",
+          "href": "/#services"
+        },
+        {
+          "text": "Biz haqqımızda",
+          "href": "/about"
+        },
+        {
+          "text": "Bizin komandamız",
+          "href": "/team"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog"
+        },
+        {
+          "text": "Joybarlar",
+          "href": "/#projects"
+        },
+        {
+          "text": "Qupıyalıq",
+          "href": "#"
+        },
+        {
+          "text": "Paydalanıw shártleri",
+          "href": "#"
+        },
+        {
+          "text": "Cookie",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "KAA",
+          "ariaLabel": "Til: Karakalpak"
+        },
+        {
+          "text": "Baslaw",
+          "ariaLabel": null
+        },
+        {
+          "text": "",
+          "ariaLabel": null
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Baylanısıw",
+          "ariaLabel": null
+        },
+        {
+          "text": "",
+          "ariaLabel": "Jabıw"
+        },
+        {
+          "text": "6",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "10",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "10",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "Barlıq kurslar",
+          "ariaLabel": null
+        },
+        {
+          "text": "Barlıq mentorlardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Biypul konsultaciya",
+          "ariaLabel": null
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Barlıq maqalalar",
+          "ariaLabel": null
+        },
+        {
+          "text": "Xabar jiberiw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Jazılıw",
+          "ariaLabel": null
+        }
+      ],
+      "forms": [
+        {
+          "fields": [
+            {
+              "tag": "INPUT",
+              "type": "text",
+              "name": "name",
+              "required": true
+            },
+            {
+              "tag": "INPUT",
+              "type": "text",
+              "name": "phone",
+              "required": false
+            },
+            {
+              "tag": "INPUT",
+              "type": "email",
+              "name": "email",
+              "required": true
+            },
+            {
+              "tag": "SELECT",
+              "type": "select-one",
+              "name": "subject",
+              "required": false
+            },
+            {
+              "tag": "TEXTAREA",
+              "type": "textarea",
+              "name": "message",
+              "required": true
+            }
+          ]
+        },
+        {
+          "fields": [
+            {
+              "tag": "INPUT",
+              "type": "email",
+              "name": "",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "errors": [],
+      "failedRequests": [
+        {
+          "url": "https://datalife.onrender.com/api/engagement/blog",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "screenshot": "home-1440.png"
+    },
+    {
+      "capturedAt": "2026-09-21T09:36:25.755Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "finalUrl": "https://datalife.uz/",
+      "httpStatus": 200,
+      "title": "DATA LIFE — IT Education Center & Technology Company",
+      "language": "kaa",
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "DATA\nLIFE"
+        },
+        {
+          "tag": "H2",
+          "text": "Biz haqqımızda"
+        },
+        {
+          "tag": "H3",
+          "text": "Baǵdarlamalıq sheshimler hám IT bilimlendiriw"
+        },
+        {
+          "tag": "H2",
+          "text": "Kurslarımız"
+        },
+        {
+          "tag": "H3",
+          "text": "Frontend Development"
+        },
+        {
+          "tag": "H3",
+          "text": "Backend Development"
+        },
+        {
+          "tag": "H3",
+          "text": "Web Application Security"
+        },
+        {
+          "tag": "H3",
+          "text": "Python"
+        },
+        {
+          "tag": "H3",
+          "text": "Prompt Engineering"
+        },
+        {
+          "tag": "H3",
+          "text": "Grafik dizayn"
+        },
+        {
+          "tag": "H2",
+          "text": "Mentorlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Sipatdinova Nurjamal"
+        },
+        {
+          "tag": "H3",
+          "text": "Pirimbetov Shaxrux"
+        },
+        {
+          "tag": "H3",
+          "text": "Yangiboyev Jamshid"
+        },
+        {
+          "tag": "H3",
+          "text": "Saparniyazov Ernazar"
+        },
+        {
+          "tag": "H3",
+          "text": "Dospanov Abduaziz"
+        },
+        {
+          "tag": "H3",
+          "text": "Bazarbaeva Aytgul"
+        },
+        {
+          "tag": "H2",
+          "text": "Xızmetlerimiz"
+        },
+        {
+          "tag": "H3",
+          "text": "Veb islep shıģarıw"
+        },
+        {
+          "tag": "H3",
+          "text": "Mobil qosımshalar"
+        },
+        {
+          "tag": "H3",
+          "text": "UI/UX dizayn"
+        },
+        {
+          "tag": "H3",
+          "text": "IT konsalting"
+        },
+        {
+          "tag": "H3",
+          "text": "Programmalıq sheshimler"
+        },
+        {
+          "tag": "H2",
+          "text": "Ne ushın DATA LIFE?"
+        },
+        {
+          "tag": "H3",
+          "text": "Tájiriybeli mentorlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Pitkeriwshiler"
+        },
+        {
+          "tag": "H3",
+          "text": "Baģdarlar"
+        },
+        {
+          "tag": "H3",
+          "text": "Usı jıldan berli"
+        },
+        {
+          "tag": "H3",
+          "text": "Jámáát"
+        },
+        {
+          "tag": "H3",
+          "text": "Búgin baslamaqshımısız?"
+        },
+        {
+          "tag": "H2",
+          "text": "Blog & maqalalar"
+        },
+        {
+          "tag": "H3",
+          "text": "2026-jıl jazı: kiberhújimler endi shegaradaģı qurılmalar arqalı kiredi"
+        },
+        {
+          "tag": "H3",
+          "text": "Iyul ayı model tolqını: bir háptede jeti shıģarılıw nedi ańlatadı"
+        },
+        {
+          "tag": "H3",
+          "text": "2026-jılda qaysı proqrammalastırıw tilin úyreniw kerek: sanlar ne deydi"
+        },
+        {
+          "tag": "H2",
+          "text": "Biz benen baylanısıń"
+        },
+        {
+          "tag": "H3",
+          "text": "IT jańalıqlarınan xabardar bolıń"
+        }
+      ],
+      "links": [
+        {
+          "text": "DATA LIFE",
+          "href": "/"
+        },
+        {
+          "text": "Bas bet",
+          "href": "/"
+        },
+        {
+          "text": "Kompaniya",
+          "href": "/about"
+        },
+        {
+          "text": "Kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Mentorlar",
+          "href": "/mentors"
+        },
+        {
+          "text": "Komanda",
+          "href": "/team"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog"
+        },
+        {
+          "text": "Baylanıs",
+          "href": "/contact"
+        },
+        {
+          "text": "Kiriw",
+          "href": "/login"
+        },
+        {
+          "text": "Baslaw",
+          "href": "/register"
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "href": "#courses"
+        },
+        {
+          "text": "Baylanısıw",
+          "href": "#contact"
+        },
+        {
+          "text": "GAME DEV\n\nDots & Boxes (Noqatlar hám keteksheler)",
+          "href": "/games"
+        },
+        {
+          "text": "",
+          "href": "/team/erejepbaev-janpolat"
+        },
+        {
+          "text": "",
+          "href": "/team/pirimbetov-shaxrux"
+        },
+        {
+          "text": "",
+          "href": "/team/yangiboyev-jamshid"
+        },
+        {
+          "text": "",
+          "href": "/team/sipatdinova-nurjamal"
+        },
+        {
+          "text": "",
+          "href": "/team/maxamadiyarov-shaxriyor"
+        },
+        {
+          "text": "",
+          "href": "/team/kayipbaev-ravshan"
+        },
+        {
+          "text": "",
+          "href": "/team/yakubbaev-azamat"
+        },
+        {
+          "text": "",
+          "href": "/team/doshmanov-madiyar"
+        },
+        {
+          "text": "",
+          "href": "/team/saparniyazov-ernazar"
+        },
+        {
+          "text": "",
+          "href": "/team/dospanov-abduaziz"
+        },
+        {
+          "text": "+1",
+          "href": "/team"
+        },
+        {
+          "text": "Jámáát penen tanısıń",
+          "href": "/team"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/frontend-development"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/backend-development"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/web-application-security"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/python"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/prompt-engineering"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "href": "/courses/grafik-dizayn"
+        },
+        {
+          "text": "Barlıq kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Sipatdinova Nurjamal\n\nPython mentori",
+          "href": "/team/sipatdinova-nurjamal"
+        },
+        {
+          "text": "Pirimbetov Shaxrux\n\nPython mentori",
+          "href": "/team/pirimbetov-shaxrux"
+        },
+        {
+          "text": "Yangiboyev Jamshid\n\nFrontend hám Backend mentori",
+          "href": "/team/yangiboyev-jamshid"
+        },
+        {
+          "text": "Saparniyazov Ernazar\n\nWeb Application Security mentori",
+          "href": "/team/saparniyazov-ernazar"
+        },
+        {
+          "text": "Dospanov Abduaziz — GitHub",
+          "href": "https://github.com/abduazizdospanov97-ai"
+        },
+        {
+          "text": "Dospanov Abduaziz — Telegram",
+          "href": "https://t.me/abduaziz_dospanov_ai"
+        },
+        {
+          "text": "Dospanov Abduaziz\n\nAI Enginer",
+          "href": "/team/dospanov-abduaziz"
+        },
+        {
+          "text": "Bazarbaeva Aytgul\n\nKompyuter sawatlılıģı mentori",
+          "href": "/team/bazarbaeva-aytgul"
+        },
+        {
+          "text": "Barlıq mentorlardı kóriw",
+          "href": "/mentors"
+        },
+        {
+          "text": "Biypul konsultaciya",
+          "href": "#contact"
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "href": "#courses"
+        },
+        {
+          "text": "Security\n5 kóriw\n7 minut · 2026 M08 5\n2026-jıl jazı: kiberhújimler endi shegaradaģı qurılmalar arqalı kiredi\n\nIyul-avgust aylarındaģı eń iri waqıyalar bir nárseni kórsetti — hújimshiler parol tańlaw menen emes, jamalmaģan VPN qurılmaları hám adamnıń isenimi arqalı kiredi.\n\n#Kiberxavfsizlik\n#Ransomware\n#VPN\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/2026-yil-yozi-kiberhujumlar-endi-chegaradagi-qurilmalar-orqali-kiryapti"
+        },
+        {
+          "text": "AI\n0 kóriw\n6 minut · 2026 M08 5\nIyul ayı model tolqını: bir háptede jeti shıģarılıw nedi ańlatadı\n\nOpenAI, Google, Meta, Anthropic hám xAI bir ay ishinde jańa modeller shıģardı. Eń áhmiyetli ózgeris bolsa modeldiń ózinde emes — proqrammistiniń olar menen qalay islewinde.\n\n#Sun'iy intellekt\n#LLM\n#Agentlar\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/iyul-oyi-model-tolqini-bir-haftada-yettita-chiqarilish-nimani-anglatadi"
+        },
+        {
+          "text": "Career\n3 kóriw\n6 minut · 2026 M08 5\n2026-jılda qaysı proqrammalastırıw tilin úyreniw kerek: sanlar ne deydi\n\nPython reytinglerde birinshi, JavaScript ámelde eń kóp isletiledi, TypeScript bolsa tınıshģana birinshi orınģa shıqtı. Bul úsh san bir-birine qarsı emes — olar úsh túrli sorawģa juwap beredi.\n\n#Python\n#TypeScript\n#Rust\nOqıwdı dawam ettiriw\n2",
+          "href": "/blog/2026-yilda-qaysi-dasturlash-tilini-organish-kerak-raqamlar-nima-deydi"
+        },
+        {
+          "text": "Barlıq maqalalar",
+          "href": "/blog"
+        },
+        {
+          "text": "TELEFON\n\n+998 91 383 68 08\n\nDúyshembi–shembi, 09:00–19:00",
+          "href": "tel:+998913836808"
+        },
+        {
+          "text": "TELEGRAM\n\n@datalifecentre\n\nTez juwap",
+          "href": "https://t.me/datalifecentre"
+        },
+        {
+          "text": "EMAIL\n\ninfo@datalife.uz\n\n24 saat ishinde juwap",
+          "href": "mailto:info@datalife.uz"
+        },
+        {
+          "text": "MÁNZIL\n\nAyimxan Shamuratova ko'chasi, Nukus\n\nIT Park, 11-qavat",
+          "href": "https://www.google.com/maps/search/?api=1&query=Ayimxan%20Shamuratova%20ko'chasi%2C%20Nukus%2C%20IT%20Park%2C%2011-qavat"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://instagram.com/data_life_centre"
+        },
+        {
+          "text": "Telegram",
+          "href": "https://t.me/datalifecentre"
+        },
+        {
+          "text": "Barlıq kurslar",
+          "href": "/courses"
+        },
+        {
+          "text": "Ne ushın biz",
+          "href": "/#why-us"
+        },
+        {
+          "text": "Web Development",
+          "href": "/#services"
+        },
+        {
+          "text": "Mobile Apps",
+          "href": "/#services"
+        },
+        {
+          "text": "UI/UX Design",
+          "href": "/#services"
+        },
+        {
+          "text": "IT Consulting",
+          "href": "/#services"
+        },
+        {
+          "text": "Digital Solutions",
+          "href": "/#services"
+        },
+        {
+          "text": "Biz haqqımızda",
+          "href": "/about"
+        },
+        {
+          "text": "Bizin komandamız",
+          "href": "/team"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog"
+        },
+        {
+          "text": "Joybarlar",
+          "href": "/#projects"
+        },
+        {
+          "text": "Qupıyalıq",
+          "href": "#"
+        },
+        {
+          "text": "Paydalanıw shártleri",
+          "href": "#"
+        },
+        {
+          "text": "Cookie",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "KAA",
+          "ariaLabel": "Til: Karakalpak"
+        },
+        {
+          "text": "Baslaw",
+          "ariaLabel": null
+        },
+        {
+          "text": "",
+          "ariaLabel": null
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Baylanısıw",
+          "ariaLabel": null
+        },
+        {
+          "text": "",
+          "ariaLabel": "Jabıw"
+        },
+        {
+          "text": "6",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "10",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "10",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Tolıǵıraq",
+          "ariaLabel": null
+        },
+        {
+          "text": "Barlıq kurslar",
+          "ariaLabel": null
+        },
+        {
+          "text": "Barlıq mentorlardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Biypul konsultaciya",
+          "ariaLabel": null
+        },
+        {
+          "text": "Kurslardı kóriw",
+          "ariaLabel": null
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Unatıw"
+        },
+        {
+          "text": "Barlıq maqalalar",
+          "ariaLabel": null
+        },
+        {
+          "text": "Xabar jiberiw",
+          "ariaLabel": null
+        },
+        {
+          "text": "Jazılıw",
+          "ariaLabel": null
+        }
+      ],
+      "forms": [
+        {
+          "fields": [
+            {
+              "tag": "INPUT",
+              "type": "text",
+              "name": "name",
+              "required": true
+            },
+            {
+              "tag": "INPUT",
+              "type": "text",
+              "name": "phone",
+              "required": false
+            },
+            {
+              "tag": "INPUT",
+              "type": "email",
+              "name": "email",
+              "required": true
+            },
+            {
+              "tag": "SELECT",
+              "type": "select-one",
+              "name": "subject",
+              "required": false
+            },
+            {
+              "tag": "TEXTAREA",
+              "type": "textarea",
+              "name": "message",
+              "required": true
+            }
+          ]
+        },
+        {
+          "fields": [
+            {
+              "tag": "INPUT",
+              "type": "email",
+              "name": "",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "errors": [],
+      "failedRequests": [],
+      "screenshot": "home-390.png"
+    }
+  ],
+  "finishedAt": "2026-09-21T09:36:25.759Z"
+}

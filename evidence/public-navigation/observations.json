@@ -1,0 +1,68 @@
+{
+  "startedAt": "2026-09-21T09:37:57.366Z",
+  "browser": "149.0.7827.55",
+  "checks": [
+    {
+      "name": "Footer link",
+      "label": "Qupıyalıq",
+      "href": "#",
+      "finalUrl": "https://datalife.uz/#",
+      "bodyTextChanged": false,
+      "openedNewPage": false,
+      "visibleDialogs": 0
+    },
+    {
+      "name": "Footer link",
+      "label": "Paydalanıw shártleri",
+      "href": "#",
+      "finalUrl": "https://datalife.uz/#",
+      "bodyTextChanged": false,
+      "openedNewPage": false,
+      "visibleDialogs": 0
+    },
+    {
+      "name": "Footer link",
+      "label": "Cookie",
+      "href": "#",
+      "finalUrl": "https://datalife.uz/#",
+      "bodyTextChanged": false,
+      "openedNewPage": false,
+      "visibleDialogs": 0
+    },
+    {
+      "name": "Login page",
+      "url": "https://datalife.uz/login",
+      "title": "Kiriw — DATA LIFE",
+      "headings": [],
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "you@example.com"
+        },
+        {
+          "type": "password",
+          "name": "password",
+          "placeholder": "••••••••"
+        },
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": "Email mánzilińiz"
+        }
+      ],
+      "buttons": [
+        "KAA",
+        "Baslaw",
+        "Kiriw",
+        "Jazılıw "
+      ]
+    },
+    {
+      "name": "Mobile width after scroll",
+      "viewport": 390,
+      "document": 390
+    }
+  ],
+  "finishedAt": "2026-09-21T09:38:48.512Z"
+}

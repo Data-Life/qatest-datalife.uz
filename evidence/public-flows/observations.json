@@ -1,0 +1,78 @@
+{
+  "startedAt": "2026-09-21T09:59:06.546Z",
+  "browser": "149.0.7827.55",
+  "checks": [
+    {
+      "id": "TC-010",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "startedAt": "2026-09-21T09:59:06.893Z",
+      "errors": [],
+      "automationError": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://datalife.uz/\", waiting until \"networkidle\"\u001b[22m\n",
+      "finalUrl": "https://datalife.uz/",
+      "finishedAt": "2026-09-21T09:59:22.577Z"
+    },
+    {
+      "id": "TC-011",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "startedAt": "2026-09-21T09:59:22.822Z",
+      "errors": [],
+      "automationError": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://datalife.uz/\", waiting until \"networkidle\"\u001b[22m\n",
+      "finalUrl": "https://datalife.uz/",
+      "finishedAt": "2026-09-21T09:59:38.079Z"
+    },
+    {
+      "id": "TC-012",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "startedAt": "2026-09-21T09:59:38.314Z",
+      "errors": [],
+      "automationError": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://datalife.uz/courses\", waiting until \"networkidle\"\u001b[22m\n",
+      "screenshotError": "page.screenshot: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n",
+      "finalUrl": "https://datalife.uz/courses",
+      "finishedAt": "2026-09-21T10:00:08.339Z"
+    },
+    {
+      "id": "TC-003",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "startedAt": "2026-09-21T10:00:08.473Z",
+      "errors": [],
+      "blockedSubmissions": [],
+      "fields": [
+        {
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "empty": true,
+          "valid": false,
+          "valueMissing": true,
+          "validationMessage": "Please fill out this field."
+        },
+        {
+          "name": "password",
+          "type": "password",
+          "required": true,
+          "empty": true,
+          "valid": false,
+          "valueMissing": true,
+          "validationMessage": "Please fill out this field."
+        }
+      ],
+      "formText": "Email\nParol\nParoldı umıttıńız ba?\nKiriw",
+      "focusedField": "email",
+      "finalUrl": "https://datalife.uz/login",
+      "finishedAt": "2026-09-21T10:00:16.652Z"
+    }
+  ],
+  "finishedAt": "2026-09-21T10:00:16.667Z"
+}

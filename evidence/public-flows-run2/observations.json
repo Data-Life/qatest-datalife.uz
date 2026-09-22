@@ -1,0 +1,48 @@
+{
+  "startedAt": "2026-09-21T10:00:47.898Z",
+  "browser": "149.0.7827.55",
+  "checks": [
+    {
+      "id": "TC-010",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "startedAt": "2026-09-21T10:00:48.020Z",
+      "errors": [],
+      "languageChoices": [],
+      "automationError": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /O.zbek|Uzbek/i })\u001b[22m\n",
+      "finalUrl": "https://datalife.uz/",
+      "finishedAt": "2026-09-21T10:01:34.901Z"
+    },
+    {
+      "id": "TC-011",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "startedAt": "2026-09-21T10:01:34.978Z",
+      "errors": [],
+      "automationError": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('header') to be visible\u001b[22m\n",
+      "finalUrl": "https://datalife.uz/",
+      "finishedAt": "2026-09-21T10:02:06.559Z"
+    },
+    {
+      "id": "TC-012",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "startedAt": "2026-09-21T10:02:06.635Z",
+      "errors": [],
+      "selectedCourseHref": "/courses/python",
+      "headings": [
+        "Barlıq kurslar"
+      ],
+      "mainText": "KURSLAR KATALOGI\nBarlıq kurslar\n\nÓzińizge sáykes baǵdardı tańlań hám búginnen baslań\n\nBarlıq dárejeler\nBaslanǵısh\nOrta\nJoqarı\nBarlıq kurslar\nBiypul\nPullı\nOnline + Offline\nFrontend Development\n\nReact & TypeScript\n\nZamonaviy veb ilovalar yaratishni o'rganing. React va TypeScript bilan professional developer bo'ling.\n\nHTML\nCSS\nJavaScript\nReact\nTypeScript\n6 ay\n1 adam\n36\n6\nTolıǵıraq\nOnline + Offline\nBackend Development\n\nNode.js & APIs\n\nServer-side dasturlash, ma'lumotlar bazasi va API yaratishni o'rganing.\n\nNode.js\nPostgreSQL\nMongoDB\nREST API\nDocker\n5 ay\n1 adam\n26\n8\nTolıǵıraq\nOnline + Offline\nWeb Application Security\n\nVeb qosımshalar qáwipsizligi\n\nVeb qosımshalardaģı ázziliklerdi tabıw hám jabıw: OWASP Top 10, XSS hám SQL injection, autentifikatsiya hám sessiya qátelikleri, qáwipsiz kod jazıw hám test esabatın tayarlaw.\n\nOWASP Top 10\nXSS\nSQL Injection\nAutentifikatsiya\nPentest\n6 ay\n2 adam\n32\n10\nTolıǵıraq\nOnline + Offline\nPython\n\nProqrammalastırıw tiykarları hám ámeliyat\n\nPython tilinde proqrammalastırıwdı noldan úyreniw: sintaksis, maģlıwmatlar dúzilmesi, fayllar menen islew hám ámeliy joybarlar.\n\nPython\nOOP\nAlgoritmlar\n6 ay\n29\n8\nTolıǵıraq\nOnline + Offline\nPrompt Engineering\n\nJasalma intellekt penen islew\n\nÚlken til modellerinen ámelde paydalanıw: nátiyjeli soraw jazıw, modeldi óz wazıypańızģa maslastırıw hám jumıs procesine jalģaw.\n\nAI\nLLM\nPrompting\n2 ay\n25\n8\nTolıǵıraq\nOnline + Offline\nGrafik dizayn\n\nVizual dizayn hám brending\n\nGrafik dizayn tiykarları: kompozitsiya, reń hám tipografika, logotip hám brend uslubı, baspa hám sanlı ónimler ushın maketler.\n\nDizayn\nFigma\nBrending\n2 ay\n17\n10\nTolıǵıraq\nOnline + Offline\nKompyuter sawatqanlıģı\n\nNoldan baslawshılar ushın\n\nKompyuter menen islewdiń tiykarları: operatsion sistema, hújjetler hám kesteler, internet hám elektron pochta, sanlı qáwipsizlik qaģıydaları.\n\nWindows\nOffice\nInternet\n2 ay\n17\n5\nTolıǵıraq",
+      "finalUrl": "https://datalife.uz/courses/python",
+      "finishedAt": "2026-09-21T10:02:12.358Z"
+    }
+  ],
+  "finishedAt": "2026-09-21T10:02:12.374Z"
+}
